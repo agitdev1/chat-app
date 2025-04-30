@@ -119,20 +119,6 @@ Type your messages in the input field, and they will be sent in real-time to the
 
 Messages are fetched from the MySQL database and displayed in real-time on the chat page.
 
-## File Structure
-
-```
-chat-app/
-├── config.php              # Database connection
-├── index.php               # Landing page (registration/login)
-├── chat.php                # Main chat interface
-├── server.php              # WebSocket server
-├── vendor/                 # Composer dependencies
-├── public/                 # Static assets (CSS, JS, etc.)
-│   ├── styles.css          # Custom CSS styles
-│   └── script.js           # JavaScript (AJAX, WebSocket)
-└── README.md               # This file
-```
 
 ## Troubleshooting
 
