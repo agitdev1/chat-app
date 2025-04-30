@@ -161,10 +161,6 @@ If the messages are not appearing, check the insert logic in your PHP files.
 - **Message persistence**: Save chat history in the database and allow users to see past messages.
 - Improve UI with **emojis**, **file uploads**, and **typing indicators**.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 **Created by:** Agitdev1 
